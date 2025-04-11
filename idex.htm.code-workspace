@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../vscodee"
+		},
+		{
+			"name": "test-repo-cha",
+			"path": "../../vscodee/test-repo-cha"
+		}
+	],
+	"settings": {}
+}
